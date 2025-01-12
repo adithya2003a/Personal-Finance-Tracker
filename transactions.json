@@ -1,0 +1,88 @@
+{
+   "Salary": [
+      {
+         "index": 0,
+         "amount": 15000000.0,
+         "transaction_type": "income",
+         "date": "2012-09-12"
+      },
+      {
+         "index": 0,
+         "amount": 1250000.0,
+         "transaction_type": "income",
+         "date": "2024-04-12"
+      },
+      {
+         "index": 0,
+         "amount": 25000.0,
+         "transaction_type": "income",
+         "date": "2024-05-01"
+      }
+   ],
+   "grocery": [
+      {
+         "index": 0,
+         "amount": 20000.0,
+         "transaction_type": "expense",
+         "date": "2020-02-02"
+      },
+      {
+         "index": 0,
+         "amount": 2000.0,
+         "transaction_type": "expense",
+         "date": "2020-11-20"
+      }
+   ],
+   "lunch": [
+      {
+         "index": 1,
+         "amount": 5800.0,
+         "transaction_type": "expense",
+         "date": "2024-06-18"
+      }
+   ],
+   "travel": [
+      {
+         "index": 0,
+         "amount": 1000.0,
+         "transaction_type": "expense",
+         "date": "2020-01-13"
+      },
+      {
+         "index": 0,
+         "amount": 1000.0,
+         "transaction_type": "expense",
+         "date": "2020-09-12"
+      }
+   ],
+   "tofee": [
+      {
+         "index": 0,
+         "amount": 10.0,
+         "transaction_type": "expense",
+         "date": "2021-09-12"
+      }
+   ],
+   "travelling": [
+      {
+         "index": 0,
+         "amount": 1000.0,
+         "transaction_type": "expense",
+         "date": "2020-12-13"
+      }
+   ],
+   "salary": [
+      {
+         "index": 0,
+         "amount": 1000.0,
+         "transaction_type": "expense",
+         "date": "2020-12-12"
+      },
+      {
+         "index": 0,
+         "amount": 20000.0,
+         "transaction_type": "income",
+         "date": "2020-10-11"
+      }
+   ]
+}
